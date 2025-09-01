@@ -1,2 +1,2 @@
 # url-status-checker
-check HTTP status for a list of URLs.
+Edit `urls.txt` then run `python check_urls.py`.
